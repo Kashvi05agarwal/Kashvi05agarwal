@@ -1,4 +1,4 @@
-# Hi, I'm Kashvi Aggarwal 👋
+# Hi, I'm Kashvi Agarwal 👋
 
 **Data Science & AI @ IIT Madras (2nd Year)** · **GSoC 2026 Applicant — ML4SCI (CERN)**
 
