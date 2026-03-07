@@ -1,6 +1,6 @@
 # Hi, I'm Kashvi Agarwal 👋
 
-**Data Science & AI @ IIT Madras (2nd Year)** · **GSoC 2026 Applicant — ML4SCI (CERN)**
+**IIT Madras (2nd Year)** · **GSoC 2026 Applicant — ML4SCI (CERN)**
 
 I build machine learning systems focused on scientific discovery, fairness, and real-world decision making — from radiomics pipelines on cardiac CT imaging, to autonomous research agents, to fairness-audited policy rankers.
 
