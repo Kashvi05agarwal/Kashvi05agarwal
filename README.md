@@ -1,46 +1,10 @@
 # Hi, I'm Kashvi Agarwal 👋
 
-**IIT Madras (2nd Year)** · **GSoC 2026 Applicant — ML4SCI (CERN)**
+**IIT Madras (2nd Year)**
 
-I build machine learning systems focused on scientific discovery, fairness, and real-world decision making — from radiomics pipelines on cardiac CT imaging, to autonomous research agents, to fairness-audited policy rankers.
-
----
-
-## 🌟 Flagship Project — AutoScholar
-
-> **An autonomous AI agent that reads, clusters, and summarises academic literature at scale — with zero manual curation.**
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     AutoScholar Pipeline                        │
-│                                                                 │
-│  📄 Raw Papers          🔢 Embeddings        🗂️ Clusters        │
-│  (100+ PDFs)    ──▶    (Sentence-BERT)  ──▶  (BERTopic)        │
-│                                                                 │
-│  🗂️ Clusters           🔍 Semantic Search    📊 Output          │
-│  (Topic Models) ──▶   (Query Interface)  ──▶  (Ranked Themes   │
-│                                                + Summaries)     │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-**Key metrics:**
-- 📚 Processed **100+ academic papers** end-to-end without manual input
-- 🗂️ Surfaced **8+ distinct research themes** via BERTopic topic modelling
-- 🎯 Evaluated with **NDCG & MAP** against gold-standard literature reviews
-- ⚡ Reduced literature review time from days → minutes
-
-**Stack:** Python · Sentence-BERT · BERTopic · UMAP · HDBSCAN · FAISS
-
-➡️ [View Repository](https://github.com/Kashvi05agarwal/AutoScholar)
+I build machine learning systems focused on fintech, scientific discovery, fairness, and real-world decision making from finlife-os, to radiomics pipelines on cardiac CT imaging, to autonomous research agents, to fairness-audited policy rankers.
 
 ---
-
-## 🔬 What I'm Working On
-
-- **GSoC 2026 Application @ ML4SCI** *(results pending)* — End-to-end radiomics feature extraction from DICOM cardiac CT data using PyRadiomics, SimpleITK, UMAP & HDBSCAN
-- Exploring **unsupervised & self-supervised learning** for scientific imaging data
-
----
-
 ## 💡 Research Interests
 
 - 🔬 Scientific Machine Learning
@@ -48,6 +12,18 @@ I build machine learning systems focused on scientific discovery, fairness, and 
 - 🏥 AI for Healthcare & Medical Imaging
 - 🤖 Autonomous Research Agents
 - ⚖️ Fairness & Responsible AI
+
+---
+## 🚀 Projects
+
+| | Project | What it does | Stack |
+|---|---|---|---|
+| 🧠 | [**FinLife OS**](https://github.com/Kashvi05agarwal/Finlife0S) · *ET AI Hackathon 2026* | 6-agent Monte Carlo engine running 300 life-path simulations across 30 years SEBI-compliant, tax-optimized, shock-tested | Python · Streamlit · NumPy · Gemini API |
+| 🔬 | [**ML4SCI — Calcium Phenotype Discovery**](https://github.com/Kashvi05agarwal/ml4sci_predict_common_task) · *GSoC 2026 / CERN* | Cardiac CT radiomics pipeline Agatston scoring → PyRadiomics extraction → HDBSCAN clustering → UMAP visualization | Python · PyRadiomics · SimpleITK · HDBSCAN |
+| ⭐ | [**AutoScholar**](https://github.com/Kashvi05agarwal/AutoScholar) | Autonomous research agent processes 100+ papers, extracts 8+ themes via BERTopic, evaluated with NDCG & MAP | Python · BERTopic · UMAP · Sentence-Transformers |
+| ⚖️ | [**Policy Recommender AI**](https://github.com/Kashvi05agarwal/policy-recommender-ai) | Fairness-aware ML ranker audited across 1,000+ simulated users Precision@K & NDCG across demographic groups | Python · scikit-learn · Fairness ML |
+| 📈 | [**Marketing Conversion Prediction**](https://github.com/Kashvi05agarwal/Digital-Marketing-Campaign-Conversion-Prediction) | Conversion model on 10,000+ campaign records identified 3 high-signal behavioural segments with feature attribution | Python · Pandas · Scikit-learn · Jupyter |
+| 🎓 | [**Applied ML Case Study**](https://github.com/Kashvi05agarwal/Applied-Machine-Learning-Case-Study) | End-to-end supervised ML pipeline with reproducible train/val/test splits IIT Kharagpur (KDH) coursework | Python · scikit-learn |
 
 ---
 
@@ -72,22 +48,9 @@ I build machine learning systems focused on scientific discovery, fairness, and 
 
 ---
 
-## 🚀 All Projects
-
-| | Project | Description | Stack |
-|---|---|---|---|
-| ⭐ | [**AutoScholar**](https://github.com/Kashvi05agarwal/AutoScholar) | Autonomous agent that processes 100+ papers, extracts 8+ research themes, evaluated with NDCG & MAP | Python, BERTopic, UMAP |
-| 🔬 | [**ml4sci_predict_common_task**](https://github.com/Kashvi05agarwal/ml4sci_predict_common_task) | GSoC 2026 — Cardiac CT radiomics pipeline using PyRadiomics + HDBSCAN clustering *(results pending)* | Python, PyRadiomics, SimpleITK |
-| 🧠 | [**policy-recommender-ai**](https://github.com/Kashvi05agarwal/policy-recommender-ai) | Fairness-aware ML ranker evaluated across 1,000+ simulated users with NDCG & Precision@K audits | Python, scikit-learn |
-| 📈 | [**Digital-Marketing-Conversion-Prediction**](https://github.com/Kashvi05agarwal/Digital-Marketing-Campaign-Conversion-Prediction) | Conversion prediction on 10,000+ campaign records; identified 3 high-signal behavioural segments | Python, Pandas, Jupyter |
-| 🎓 | [**Applied-Machine-Learning-Case-Study**](https://github.com/Kashvi05agarwal/Applied-Machine-Learning-Case-Study) | End-to-end supervised ML pipeline with reproducible train/val/test splits — IIT Kharagpur (KDH) | Python, scikit-learn |
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashvi-agarwal-300822325)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kashviaggarwal2905@gmail.com)
 
 ---
 
