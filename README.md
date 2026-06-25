@@ -18,8 +18,8 @@ I build machine learning systems focused on fintech, scientific discovery, fairn
 
 | | Project | What it does | Stack |
 |---|---|---|---|
-| 🧠 | [**FinLife OS**](https://github.com/Kashvi05agarwal/Finlife0S) · *ET AI Hackathon 2026* | 6-agent Monte Carlo engine running 300 life-path simulations across 30 years SEBI-compliant, tax-optimized, shock-tested | Python · Streamlit · NumPy · Gemini API |
-| 🔬 | [**ML4SCI — Calcium Phenotype Discovery**](https://github.com/Kashvi05agarwal/ml4sci_predict_common_task) · *GSoC 2026 / CERN* | Cardiac CT radiomics pipeline Agatston scoring → PyRadiomics extraction → HDBSCAN clustering → UMAP visualization | Python · PyRadiomics · SimpleITK · HDBSCAN |
+| 🧠 | [**FinLife OS**](https://github.com/Kashvi05agarwal/Finlife0S) · | 6-agent Monte Carlo engine running 300 life-path simulations across 30 years SEBI-compliant, tax-optimized, shock-tested | Python · Streamlit · NumPy · Gemini API |
+| 🔬 | [**Calcium Phenotype Discovery**](https://github.com/Kashvi05agarwal/ml4sci_predict_common_task) ·| Cardiac CT radiomics pipeline Agatston scoring → PyRadiomics extraction → HDBSCAN clustering → UMAP visualization | Python · PyRadiomics · SimpleITK · HDBSCAN |
 | ⭐ | [**AutoScholar**](https://github.com/Kashvi05agarwal/AutoScholar) | Autonomous research agent processes 100+ papers, extracts 8+ themes via BERTopic, evaluated with NDCG & MAP | Python · BERTopic · UMAP · Sentence-Transformers |
 | ⚖️ | [**Policy Recommender AI**](https://github.com/Kashvi05agarwal/policy-recommender-ai) | Fairness-aware ML ranker audited across 1,000+ simulated users Precision@K & NDCG across demographic groups | Python · scikit-learn · Fairness ML |
 | 📈 | [**Marketing Conversion Prediction**](https://github.com/Kashvi05agarwal/Digital-Marketing-Campaign-Conversion-Prediction) | Conversion model on 10,000+ campaign records identified 3 high-signal behavioural segments with feature attribution | Python · Pandas · Scikit-learn · Jupyter |
@@ -55,3 +55,4 @@ I build machine learning systems focused on fintech, scientific discovery, fairn
 ---
 
 *"The goal is to turn data into information, and information into insight."*
+
