@@ -19,7 +19,7 @@ I build machine learning systems focused on fintech, scientific discovery, fairn
 | | Project | What it does | Stack |
 |---|---|---|---|
 | 🛰️ | **Antariksh Drishti** — ISRO Bhartiya Antariksh Hackathon 2026, National Finalist (Top 30 of 60,000+ teams) | Five-stage exoplanet detection pipeline — BLS period search, physics-based transit classification, trapezoid fitting on real TESS light curves | Python · Streamlit · NumPy · SciPy |
-| 🛡️ | **RealityCheck** | 6-agent system detecting scams, misinformation & undisclosed ads across text/URL/image/audio, with India-specific UPI fraud and Hindi/Hinglish handling | Python · LangGraph · FAISS · Groq/Anthropic |
+| 🛡️ | **RealityCheck** |(https://github.com/Kashvi05agarwal/RealityCheck) · | 6-agent system detecting scams, misinformation & undisclosed ads across text/URL/image/audio, with India-specific UPI fraud and Hindi/Hinglish handling | Python · LangGraph · FAISS · Groq/Anthropic |
 | 🧠 | [**FinLife OS**](https://github.com/Kashvi05agarwal/Finlife0S) · | 6-agent Monte Carlo engine running 300 life-path simulations across 30 years SEBI-compliant, tax-optimized, shock-tested | Python · Streamlit · NumPy · Gemini API |
 | 🔬 | [**Calcium Phenotype Discovery**](https://github.com/Kashvi05agarwal/ml4sci_predict_common_task) ·| Cardiac CT radiomics pipeline Agatston scoring → PyRadiomics extraction → HDBSCAN clustering → UMAP visualization | Python · PyRadiomics · SimpleITK · HDBSCAN |
 | ⭐ | [**AutoScholar**](https://github.com/Kashvi05agarwal/AutoScholar) | Autonomous research agent processes 100+ papers, extracts 8+ themes via BERTopic, evaluated with NDCG & MAP | Python · BERTopic · UMAP · Sentence-Transformers |
